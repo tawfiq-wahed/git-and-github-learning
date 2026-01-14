@@ -1,0 +1,39 @@
+<!doctype>
+<html lang="Bangla">
+    <head>
+<title>
+   One Page CV
+</title>
+  </head>
+ <body>
+<pre>
+  <big >
+    Introduction:
+       Name :Tawfiq Bin Wahed
+       Year :3rd year 1st semester
+       Department :SOFTWARE ENGINEERING
+       University :Shahjalal University of Science and Technology
+<hr> </hr>
+    Skills:
+       Skilled at:Data Structure,OOP(Java),Operating System,Competitive Programming,Database .
+       Languages :C,C++,JAVA,HTML,CSS.
+       Database: MYSQL 
+       Problem Solving:Solved more than 1700 problems
+       in different Online Judges
+       <hr> </hr>
+
+    Achievements:
+       ICPC Dhaka Regionalist 2025
+       CUET IUPC 2025(Rank: 75 around 135+ teams)
+    Extra-Carricular Activities:
+       Champions of Football-Tournament SportsWeek-2024
+       Runners-up of Cricket-Tournament SportsWeek-2024
+        <hr> </hr>
+    Projects:
+       <a href="https://github.com/tawfiq-wahed/project-150-final-submission">Snake Game </a> 
+       <a href="https://github.com/tawfiq-wahed/JAVA-GAME-PROJECT">OOP Project:Tic Tac Toe Game </a> 
+  </big>
+</pre>
+
+</body>
+</html>
