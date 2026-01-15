@@ -71,3 +71,122 @@
 </footer>
 </body>
 </html>
+
+
+
+
+
+
+
+<!doctype>
+<html lang="en" style="background:rgb(56,59,67)">
+    <head>
+<title>
+  Yasin Arafat
+</title>
+  </head>
+ <body>
+<header style="color :red">
+   <h1>My Portfolio</h1>
+</header>
+<main >
+    <!-- <big>
+   <section style="color :red">
+     
+      Introduction:Ami bokachoda Absar
+      Profession:
+      Meyeder jonno kaj kori 
+      <br>
+      Marital Status:Fahima othoba chattogram er meye biye korbo.
+      Meye Friend:
+      <ol>
+         <li>Marien</li>
+         <li>Fatema</li>
+         <li>Fahima</li>
+         <li>Saika</li>
+         <li>Lubnan</li>
+         <li>Fouzia</li>
+         <li>lamisa</li>
+
+      </ol>
+   </section>
+   <section style="color :red">
+      EXPERIENCE: kew patta dei nh tai experience nhai.
+   </section>
+   <article style="color :red"></article>
+   <aside></aside>
+   
+   <a href="https://youtu.be/htCDVg-L6WQ?si=asakpsl9eoJ22pxd"> <img src="yasin.png" height="300"> </a>
+   <h2 style="color :red">Click the picture</h3>
+  
+   <table>
+      <caption>Student Data</caption>
+      <tr>
+      <th colspan="2">
+         Student ID
+      </th>
+      
+   </tr>
+   <tr>
+      <td>
+         101
+      </td>
+      <td>
+         3.39
+      </td>
+   </tr>
+   <tr>
+      <td>
+         102
+      </td>
+      <td>
+         4.00
+      </td>
+   </tr>
+   </table>
+    </big> -->
+    <form action="/action.php">
+   <input type="text" placeholder="type something here">
+    <input type="password" placeholder="password">
+    <label for="101">
+   <input type="radio" value="class XI" name="class" id="101">class XI
+</label>
+ <label for="102">
+   
+   <input type="radio" value="class XII" name="class" id="102">class XII
+</label>
+<br>
+Select Your Subject:
+<label for="101"
+>
+<input type="checkbox" value="math" id="101">Math
+</label>
+<label for="102"
+>
+<input type="checkbox" value="phy" id="102">Physics
+</label>
+<label for="103"
+>
+<input type="checkbox" value="chem" id="103">Chemistry
+</label>
+<textarea name="feedback" id="101" placeholder= "please give your feedback" rows="5">
+Feedback
+</textarea>
+<select name="city">
+<option value="dhaka">DHAKA</option>
+<option value="ctg">chatga</option>
+<option value="sylhet">sylhet</option>
+</select>
+<input type="submit" value="submit">
+<iframe src="https://www.wikipedia.org/">
+</iframe>
+<video width="300" src="https://youtu.be/htCDVg-L6WQ?si=asakpsl9eoJ22pxd" autoplay loop controls>
+   My video
+</video>
+   </form>
+</main>
+<footer>
+   <h4 style="color :red">For any porn video contact me</h4>
+</footer>
+</body>
+</html>
